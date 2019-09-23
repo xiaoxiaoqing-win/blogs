@@ -6,7 +6,7 @@
 
 我们共同学习，共同进步~
 
-![](/Users/zhengyunqing/Documents/小小晴/qrcode_for_gh_df3de7e6cf4a_258.jpg)
+![](https://user-gold-cdn.xitu.io/2019/9/19/16d49ba9c0681911?imageslim)
 
 ### [掘金社区](https://juejin.im/user/5d38178cf265da1bb27773f4)
 
@@ -25,4 +25,3 @@ CSDN博客是我学习前端初期创建，里面上传了30多篇学习过程�
 ### 最后
 
 欢迎大家指出博客内存在的问题，让我们在学习前端的路上越走越远，越来越🐂~
-
