@@ -4,7 +4,7 @@
 
 本人为微信公众号【web前端日记】的作者，欢迎大家多多关注~
 
-我们共同学习，共同进步~
+我们共同学习，共同进步！关注后有资料可以领取哦~
 
 ![](https://user-gold-cdn.xitu.io/2019/9/19/16d49ba9c0681911?imageslim)
 
@@ -16,7 +16,8 @@
 
 3、[React源码解析（一）：这些React的API你都知道吗](https://juejin.im/post/5d668244e51d45621655353d)
 
-4、......（等待更新）
+4、[React源码解析（二）：你不知道的React.Children](https://juejin.im/post/5d838ec3e51d453b7403fa50)
+5、......（等待更新）
 
 ### [CSDN博客](https://blog.csdn.net/Alberqing_/article/list/1?)
 
