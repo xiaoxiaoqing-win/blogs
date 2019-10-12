@@ -8,6 +8,14 @@
 
 ![](https://user-gold-cdn.xitu.io/2019/9/19/16d49ba9c0681911?imageslim)
 
+### 【web前端日记交流群】
+
+自建前端交流群，欢迎大家加入~
+
+![](https://user-gold-cdn.xitu.io/2019/10/12/16dbdc7285f92692?w=430&h=430&f=jpeg&s=40900)
+
+扫一扫上方二维码，备注「进群」，我拉你进群
+
 ### [掘金社区](https://juejin.im/user/5d38178cf265da1bb27773f4)
 
 1、[封装ajax请求的两种方式](https://juejin.im/post/5d3ac541f265da1bcf5e2314)
@@ -20,7 +28,9 @@
 
 5、[JavaScript系列：揭开new运算符的神秘面纱](https://juejin.im/post/5d9486af5188255bc7643457)
 
-6、......（等待更新）
+6、[从零搭建一个属于自己的react框架](https://juejin.im/post/5d9c4cc1f265da5ba95c2c23)
+
+7、......（等待更新）
 
 ### [CSDN博客](https://blog.csdn.net/Alberqing_/article/list/1?)
 
