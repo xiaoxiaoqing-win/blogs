@@ -30,7 +30,11 @@
 
 6、[从零搭建一个属于自己的react框架](https://juejin.im/post/5d9c4cc1f265da5ba95c2c23)
 
-7、......（等待更新）
+7、[【webpack优化篇】如何让你的项目打包更快呢？](https://juejin.im/post/5da2dc876fb9a04e065d7201)
+
+8、[【读书笔记】JavaScript面向对象精要（上）](https://juejin.im/post/5dd653f55188254e2a743279)
+
+9、......（等待更新）
 
 ### [CSDN博客](https://blog.csdn.net/Alberqing_/article/list/1?)
 
