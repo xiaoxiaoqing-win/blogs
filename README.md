@@ -26,7 +26,7 @@
 
 4、[React源码解析（二）：关于React.Children，你了解多少？](https://juejin.im/post/5d838ec3e51d453b7403fa50)
 
-5、[JavaScript系列：揭开new运算符的神秘面纱](https://juejin.im/post/5d9486af5188255bc7643457)
+5、[【JavaScript系列】带你手写实现new运算符](https://juejin.im/post/5d9486af5188255bc7643457)
 
 6、[从零搭建一个属于自己的react框架](https://juejin.im/post/5d9c4cc1f265da5ba95c2c23)
 
@@ -34,7 +34,9 @@
 
 8、[【读书笔记】JavaScript面向对象精要（上）](https://juejin.im/post/5dd653f55188254e2a743279)
 
-9、......（等待更新）
+9、[【读书笔记】JavaScript面向对象精要（下）](https://juejin.im/post/5df19fc4e51d45581c1a8d38)
+
+10、......（等待更新）
 
 ### [CSDN博客](https://blog.csdn.net/Alberqing_/article/list/1?)
 
