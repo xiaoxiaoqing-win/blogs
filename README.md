@@ -38,7 +38,9 @@
 
 10、[【面试篇】几道面试题带你深入理解JavaScript面向对象](https://juejin.im/post/5dfb4a4751882512533a8e32)
 
-11、......（等待更新）
+11、[【redux】从入门到手写实现redux](https://juejin.im/post/5e0b25ff6fb9a0483e475469)
+
+12、......（等待更新）
 
 ### [CSDN博客](https://blog.csdn.net/Alberqing_/article/list/1?)
 
