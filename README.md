@@ -16,6 +16,10 @@
 
 扫一扫上方二维码，备注「进群」，我拉你进群
 
+### 年终总结
+
+1、2019年：[【年终总结】我的22岁和对23岁的展望](https://juejin.im/post/5e2be0a3f265da3e4e060181)
+
 ### [掘金社区](https://juejin.im/user/5d38178cf265da1bb27773f4)
 
 1、[封装ajax请求的两种方式](https://juejin.im/post/5d3ac541f265da1bcf5e2314)
@@ -40,7 +44,19 @@
 
 11、[【redux】从入门到手写实现redux](https://juejin.im/post/5e0b25ff6fb9a0483e475469)
 
-12、......（等待更新）
+12、[【殷实基础系列】请查收，所有的数组方法都在这里了...](https://juejin.im/post/5e3a27b5e51d45270c276e04)
+
+13、[【殷实基础系列】请查收，所有的对象方法都在这里了....](https://juejin.im/post/5e3cf93d6fb9a07ce01a1971)
+
+14、[【浏览器】(内附面试题)浏览器中堆栈内存的底层处理机制](https://juejin.im/post/5e3e5cd26fb9a07c81760570)
+
+15、[【组件】用原生JS封装一个Table组件](https://juejin.im/post/5e42b9476fb9a07caa26fc78)
+
+16、[【JavaScript】（附面试题）深入理解作用域、作用域链和闭包](https://juejin.im/post/5e494adee51d4526fc74923b)
+
+17、[【Promise】Promises/A+中文翻译](https://juejin.im/post/5e50bb0bf265da575918d5f7)
+
+18、等待更新....
 
 ### [CSDN博客](https://blog.csdn.net/Alberqing_/article/list/1?)
 
