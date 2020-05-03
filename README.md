@@ -56,7 +56,15 @@
 
 17、[【Promise】Promises/A+中文翻译](https://juejin.im/post/5e50bb0bf265da575918d5f7)
 
-18、等待更新....
+18、[【JavaScript】几个必须要会的高级编程技巧](https://juejin.im/post/5e547fb86fb9a07cde64d49c)
+
+19、[【JavaScript】（附面试题）一文搞懂面向对象编程](https://juejin.im/post/5e65a3d1518825495c659cb9)
+
+20、[【JavaScript】还记得如何手写实现call、apply、bind吗](https://juejin.im/post/5e707d61518825492442e837)
+
+21、[【浏览器】HTML、CSS和JS如何变成页面的？](https://juejin.im/post/5e8883a56fb9a03c3912e7fc)
+
+22、[【JavaScript】必须要会的手写Promise](https://juejin.im/post/5ea39ea251882573b86fadbe)
 
 ### [CSDN博客](https://blog.csdn.net/Alberqing_/article/list/1?)
 
